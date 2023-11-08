@@ -13,7 +13,7 @@ public class UnsortedListEx {
 			arr[i]=s.nextInt();
 		}
 		System.out.println("Enter the value k : ");
-		int k = s.nextInt()
+		int k = s.nextInt();
 		
 
 	}
