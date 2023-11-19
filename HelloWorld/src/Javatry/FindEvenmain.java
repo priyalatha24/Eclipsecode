@@ -1,4 +1,4 @@
-package My_Learn;
+package Javatry;
 
 import java.util.Scanner;
 
